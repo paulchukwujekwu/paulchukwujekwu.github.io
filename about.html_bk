@@ -71,18 +71,6 @@
             </p>
         </section>
     </main>
-    <div class="section">
-            <h2>Contact Information</h2>
-            <div class="contact-info">
-                <p>Email: paulchukwu2001@gmail.com, paulchukwu2001@yahoo.com</p>
-                <p>Phone: +234 803 425 6403, +234 809 944 4915</p>
-                <p>
-                    <a href="https://www.linkedin.com/in/paulchukwujekwu/">LinkedIn</a> |
-                    <a href="https://twitter.com/PaulChukwujekwu">Twitter</a> |
-                    <a href="https://github.com/paulchukwujekwu">GitHub</a>
-                </p>
-                <!--p>Permanent Address: 17 Alice Tinubu Street, Orile Iganmu, Lagos.</p-->
-            </div>
 </body>
 </html>
 
